@@ -1,4 +1,6 @@
 # Crop-Yield
+
+# App Link:https://crop12.streamlit.app/
 🌾 Crop Yield Prediction
 
 A machine learning web app built with Streamlit that predicts crop yield based on features like rainfall, pesticides, temperature, and other agricultural data. This project helps farmers, students, and researchers estimate yield and make better farming decisions.
